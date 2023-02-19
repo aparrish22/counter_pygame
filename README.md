@@ -6,8 +6,8 @@ run 'app.py'
 **What the App does**
 
 This small project features two things:
-    *button functionality*
-    *display*
+ - *button functionality*
+  - *display*
 
 The user can increment or decrement a counter by 
 mouse clicking the respective buttons on
